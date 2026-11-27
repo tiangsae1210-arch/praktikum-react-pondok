@@ -1,4 +1,4 @@
-# SANTRI-CATAT
+# PEMBAYARAN-SYAHRIAH
 
 Administrasi keuangan syahriyah pesantren berbasis React (Vite), Express, dan PostgreSQL di Neon. Aplikasi mencakup login admin, data santri, tagihan bulanan, pembayaran, ringkasan dashboard, laporan, dan pengaturan akun.
 
