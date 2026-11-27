@@ -42,3 +42,4 @@ Lihat `.env.example` untuk daftar lengkap variabel. `DATABASE_URL` berisi connec
 - Penghapusan santri menghapus permanen seluruh tagihan dan riwayat pembayarannya dalam satu transaksi.
 
 Skema database: [server/schema.sql](./server/schema.sql). API Express: [server/index.js](./server/index.js). Aplikasi React: [client/src/App.jsx](./client/src/App.jsx).
+"# praktikum-react-pondok" 
